@@ -1,0 +1,7 @@
+flask>=3.0
+baostock>=0.9
+akshare>=1.14
+matplotlib>=3.8
+mplfinance>=0.12
+pandas>=2.0
+numpy>=1.26
